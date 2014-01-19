@@ -1,4 +1,12 @@
-CPPFLAGS=-Wall -g
+# make official documentation  - http://www.gnu.org/software/make/
+# for tutorial on makefiles - http://www.opussoftware.com/tutorial/TutMakefile.htm
+# see also: 
+	# http://www.cygwin.com 
+	# http://www.cmake.org
+
+# for wall flag see - http://stackoverflow.com/questions/2408038/what-does-wall-in-g-wall-test-cpp-o-test-do
+# for g flag see - http://gcc.gnu.org/onlinedocs/gcc-3.0/gcc_3.html#SEC12
+CPPFLAGS=-Wall -g 
 OBJECTS=main.o painter.o field.o snake.o game.o
 TARGET=snake
 %.o: %.cpp

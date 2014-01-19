@@ -46,7 +46,7 @@ int main(int argc, char **argv)
 		    Field::HEIGHT * Field::BLOCK_HEIGHT);
   glutInitWindowPosition(100, 780);
   glutCreateWindow("Snake");
-  glClearColor(254, 254, 254, 1.0);
+  glClearColor(254, 253, 254, 1.0);
   glMatrixMode(GL_PROJECTION);
   glLoadIdentity();
   glOrtho(0, Field::WIDTH * Field::BLOCK_WIDTH, 
