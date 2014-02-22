@@ -1,0 +1,31 @@
+class WordOccurrences is
+  field occurrences is
+    The list of the index of each occurrence of the word in the text.
+
+  constructor WordOccurrences(text, word) is
+      input: the text in which the occurrences have to be found
+      input: the word that should appear in the text
+    Empty the occurrences list
+    for each textIndex in text
+      isMatching := true
+      for each wordIndex in word
+        if the current word character does not match the current text character then
+          isMatching := false
+      if isMatching is true then
+        Add the current textIndex into the occurrences list
+
+  method getOneOccurrenceIndex(n) is
+      input: a number to point on the nth occurrence.
+      output: the index of the nth occurrence.
+    Return the nth item of the occurrences field if any.
+
+  method clone() is
+      output: a WordOccurrences object containing the same data.
+    Call clone() on the super class.
+    On the returned object, set the occurrences field with the value of the local occurrences field.
+    Return the cloned object.
+
+text := "The prototype pattern is a creational design pattern in software development first described in design patterns, the book."
+word := "pattern"
+searchEngine := new WordOccurrences(text, word)
+anotherSearchEngine := searchEngine.clone()

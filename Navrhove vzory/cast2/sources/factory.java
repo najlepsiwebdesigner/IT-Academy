@@ -1,0 +1,20 @@
+public class MazeGame {
+  public MazeGame() {
+     Room room1 = makeRoom();
+     Room room2 = makeRoom();
+     room1.connect(room2);
+     this.addRoom(room1);
+     this.addRoom(room2);
+  }
+ 
+  protected Room makeRoom() {
+     return new OrdinaryRoom();
+  }
+}
+
+public class MagicMazeGame extends MazeGame {
+  @Override
+  protected Room makeRoom() {
+      return new MagicRoom();
+  }
+}

@@ -1,0 +1,812 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"arra",
+				"arrayValue"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"dictiona",
+				"dictionary_name"
+			],
+			[
+				"summar",
+				"summary_questions"
+			],
+			[
+				"question",
+				"question_numbers"
+			],
+			[
+				"summa",
+				"summaries"
+			],
+			[
+				"summary",
+				"summary_types"
+			],
+			[
+				"calc",
+				"calculateSummaries"
+			],
+			[
+				"emp",
+				"employees_count"
+			],
+			[
+				"resl",
+				"result"
+			],
+			[
+				"final",
+				"final_ifs_kk"
+			],
+			[
+				"cal",
+				"calculateAverage"
+			],
+			[
+				"section",
+				"section_name"
+			],
+			[
+				"companies",
+				"companies_sections"
+			],
+			[
+				"chart",
+				"chart_ifs_sr"
+			],
+			[
+				"ifs_",
+				"ifs_groups_labels"
+			],
+			[
+				"ang_spok",
+				"ang_spok_ifs"
+			],
+			[
+				"ang_sp",
+				"ang_spok_ifs"
+			],
+			[
+				"ang",
+				"ang_spok_ifs"
+			],
+			[
+				"velmi_an",
+				"velmi_angazovani_velmi_spokojni"
+			],
+			[
+				"calculate",
+				"calculateMedian"
+			],
+			[
+				"velmi_anga",
+				"velmi_angazovani_malo_spokojni_ifs_values"
+			],
+			[
+				"malo",
+				"malo_angazovani_velmi_spokojni_ifs_values"
+			],
+			[
+				"velmi",
+				"velmi_angazovani_velmi_spokojni_ifs_values"
+			],
+			[
+				"vel",
+				"velmi_angazovani_malo_spokojni_ifs_values"
+			],
+			[
+				"malo_ana",
+				"malo_angazovani_malo_spokojni_ifs_values"
+			],
+			[
+				"malo_",
+				"malo_angazovani_velmi_spokojni"
+			],
+			[
+				"mao",
+				"malo_angazovani_malo_spokojni"
+			],
+			[
+				"bar",
+				"bar_options"
+			],
+			[
+				"ifs_groups",
+				"ifs_groups_lines"
+			],
+			[
+				"final_",
+				"final_ifs_sr"
+			],
+			[
+				"ifs_gr",
+				"ifs_groups_lines"
+			],
+			[
+				"ve",
+				"velky_podpriemer"
+			],
+			[
+				"empl",
+				"employees_count_sql"
+			],
+			[
+				"malo_a",
+				"malo_angazovani_malo_spokojni"
+			],
+			[
+				"angazova",
+				"angazovanost_priemer"
+			],
+			[
+				"spoko",
+				"malo_spokojni"
+			],
+			[
+				"spokoj",
+				"spokojnost_priemer"
+			],
+			[
+				"spokojn",
+				"spokojnost_priemer"
+			],
+			[
+				"sum_",
+				"sum_komunikacia"
+			],
+			[
+				"sum",
+				"sum_spokojnost"
+			],
+			[
+				"ana",
+				"angazovanost"
+			],
+			[
+				"e2",
+				"e2_values"
+			],
+			[
+				"vifs",
+				"vifs_values"
+			],
+			[
+				"e1",
+				"e1_questions"
+			],
+			[
+				"final_ifs",
+				"final_ifs_pr"
+			],
+			[
+				"su",
+				"sum_ifs_pr"
+			],
+			[
+				"jqu",
+				"jquery"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"array",
+				"array_push"
+			],
+			[
+				"calcu",
+				"calculateMedian"
+			],
+			[
+				"sum_ifs",
+				"sum_ifs_sp"
+			],
+			[
+				"sum_ifs_",
+				"sum_ifs_kk"
+			],
+			[
+				"calcula",
+				"calculateIfs"
+			],
+			[
+				"dic",
+				"dictionary_name"
+			],
+			[
+				"dura",
+				"duration_dictionary"
+			],
+			[
+				"read",
+				"readfile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Image.java",
+			"settings":
+			{
+				"buffer_size": 100,
+				"line_ending": "Unix",
+				"name": "package proxy;"
+			}
+		},
+		{
+			"file": "ImageViewer.java",
+			"settings":
+			{
+				"buffer_size": 1306,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ImageProxy.java",
+			"settings":
+			{
+				"buffer_size": 558,
+				"line_ending": "Unix",
+				"name": "package proxy;"
+			}
+		},
+		{
+			"file": "HighResolutionImage.java",
+			"settings":
+			{
+				"buffer_size": 389,
+				"line_ending": "Unix",
+				"name": "package proxy;"
+			}
+		}
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax ba",
+				"Set Syntax: BHT-BASIC"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set syntax cm",
+				"Set Syntax: CMake"
+			],
+			[
+				"set syntax twi",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax mu",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"set syntax tw",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"set syntax n",
+				"Set Syntax: nginx"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"sublime.Window.open_file(fname = \"/usr/local/etc/nginx/nginx.conf\");",
+			"sublime.Window.open_file(fname : \"/usr/local/etc/nginx/nginx.conf\");",
+			"sublime.Window.open_file(\"/usr/local/etc/nginx/nginx.conf\");",
+			"sublime.Window.open_file(/usr/local/etc/nginx/nginx.conf);",
+			"sublime.Window.open_file('/usr/local/etc/nginx/nginx.conf');",
+			"sublime.Window.widows",
+			"sublime.Window.open_file('/usr/local/etc/nginx/nginx.conf')",
+			"sublime.Window.open_file('/usr/local/etc/nginx/nginx.conf','')",
+			"sublime.Window.open_file('/usr/local/etc/nginx/nginx.conf')",
+			"sublime.Window",
+			"sublime",
+			"open_file()",
+			"sublime",
+			"sublime.Window.open_file('/usr/local/etc/nginx/nginx.conf')",
+			"open_file('/usr/local/etc/nginx/nginx.conf')",
+			"open '/usr/local/etc/nginx/nginx.conf'",
+			"open /usr/local/etc/nginx/nginx.conf"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/peterbeno/Desktop/design_patterns/flyweight.py",
+		"/Users/peterbeno/Desktop/design_patterns/flyweight.java",
+		"/Users/peterbeno/Desktop/design_patterns/flyweight.rb",
+		"/Users/peterbeno/Desktop/design_patterns/proxy/ImageViewer.java",
+		"/Users/peterbeno/Desktop/design_patterns/flyweight.cs",
+		"/Users/peterbeno/Desktop/design_patterns/package_proxy.java",
+		"/Users/peterbeno/Desktop/design_patterns/servant.java",
+		"/Users/peterbeno/Desktop/OOP/encapsulation.vb",
+		"/Users/peterbeno/Desktop/OOP/encapsulation.basic",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/1. Priatelia, Vynimky/todo",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/1. Priatelia, Vynimky/friend_classes.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/1. Priatelia, Vynimky/friend_function.cpp",
+		"/Users/peterbeno/Desktop/class_template.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/Sablony/vector.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/Sablony/templates-multiple-instantiation.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/Sablony/template.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/Sablony/functions-templates-predefined-arguments.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/Sablony/function-templates-with-reference.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/Sablony/function-templates-return-reference.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/Sablony/function-template.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/Sablony/function-template-two-arguments-one-type.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/Sablony/function-template-constant-reference.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/1. Priatelia, Vynimky/unexpected_exception.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/1. Priatelia, Vynimky/uncatched_exception.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/1. Priatelia, Vynimky/bad_alloc.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/1. Priatelia, Vynimky/standard_exceptions.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/1. Priatelia, Vynimky/14.5,6,7,8,9 queuetp/error2.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/3. Triedy a dynamicke pridelovanie pamati/basic_new_delete.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast2/3. Triedy a dynamicke pridelovanie pamati/dynamic_memory_for_class.cpp",
+		"/Users/peterbeno/Desktop/functions-templates-predefined-arguments.cpp",
+		"/Users/peterbeno/Desktop/function-template-two-arguments-one-type.cpp",
+		"/Users/peterbeno/Desktop/templates-multiple-instantiation.cpp",
+		"/Users/peterbeno/Desktop/function-templates-return-reference.cpp",
+		"/Users/peterbeno/Desktop/function-template.cpp",
+		"/Users/peterbeno/Desktop/function-template-constant-reference.cpp",
+		"/Users/peterbeno/Desktop/function-templates-with-reference.cpp",
+		"/Users/peterbeno/Desktop/template pre funkcie",
+		"/Users/peterbeno/Desktop/vector.cpp",
+		"/Users/peterbeno/Desktop/template.cpp",
+		"/Users/peterbeno/Desktop/test.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast1/snake_proc/Makefile",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast1/snake/Makefile",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast1/1. Pamatove modely a menne pristory/8.16-external.cpp",
+		"/Users/peterbeno/Desktop/IT-Academy/Skolenie C++ III pokrocily/cast1/1. Pamatove modely a menne pristory/8.17-static.cpp",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Skolenie C++ III pokrocily/linky",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Skolenie C++ III pokrocily/cast1/snake_proc/Makefile",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Skolenie C++ III pokrocily/cast1/snake_proc/snake.cpp",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Skolenie C++ III pokrocily/cast1/2. Dedicnost tried/12.1acctabc.h",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Skolenie C++ III pokrocily/cast1/2. Dedicnost tried/12.1acctabc.cpp",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Skolenie C++ III pokrocily/cast1/2. Dedicnost tried/12.1 acctabc.h",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Skolenie C++ III pokrocily/cast1/1. Pamatove modely a menne pristory/coordin/coordin.h",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Skolenie C++ III pokrocily/cast1/snake/Makefile",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Skolenie C++ III pokrocily/cast1/snake/painter.cpp",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Skolenie C++ III pokrocily/cast1/snake/game.cpp",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Skolenie C++ III pokrocily/cast1/snake/field.cpp",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Skolenie C++ III pokrocily/cast1/snake/main.cpp",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Skolenie C++ III pokrocily/cast1/snake/snake.cpp",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Skolenie C++ III pokrocily/cast1/2. Dedicnost tried/12.1 acctabc.cpp",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Skolenie C++ III pokrocily/cast1/2. Dedicnost tried/Makefile",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Skolenie C++ III pokrocily/cast1/snake/main.o",
+		"/Users/peterbeno/Desktop/Skolenie IT-Academy, ZA, januar 2014/Navrhove vzory/Flyweight.cpp",
+		"/Users/peterbeno/Desktop/Navrhove vzory/Facade.cpp",
+		"/Users/peterbeno/Desktop/Navrhove vzory/Command.cpp",
+		"/Users/peterbeno/Desktop/Navrhove vzory/ArrayIterator.cpp",
+		"/Users/peterbeno/Desktop/Navrhove vzory/Iterator.cpp",
+		"/Users/peterbeno/Desktop/Navrhove vzory/TemplateMethod.cpp",
+		"/Users/peterbeno/Desktop/Navrhove vzory/TemplateMethod2.cpp",
+		"/Users/peterbeno/Desktop/Navrhove vzory/State.cpp",
+		"/Users/peterbeno/Desktop/Navrhove vzory/State2.cpp",
+		"/Users/peterbeno/Desktop/Navrhove vzory/Iterator2.cpp",
+		"/Users/peterbeno/Desktop/Navrhove vzory/Iterator/main.cpp",
+		"/Users/peterbeno/Desktop/Navrhove vzory/Iterator/Iterator.cpp",
+		"/Users/peterbeno/Desktop/Navrhove vzory/Iterator/MyIntLList.cpp",
+		"/Users/peterbeno/Desktop/export_hc_db/survey_answers.sql",
+		"/Users/peterbeno/Nginx/happycompany/app/config.php",
+		"/Users/peterbeno/Nginx/happycompany/www/index.php",
+		"/usr/local/etc/nginx/nginx.conf",
+		"/Users/peterbeno/Cpp/Sockets/server.cpp",
+		"/Users/peterbeno/Cpp/Sockets/client.cpp",
+		"/Users/peterbeno/Cpp/simple-socket/SimpleSocket.cpp",
+		"/Users/peterbeno/Nginx/happycompany/config.php",
+		"/Users/peterbeno/Nginx/happycompany/app/templates/survey-pss.twig",
+		"/Users/peterbeno/Desktop/snake/painter.cpp",
+		"/Users/peterbeno/Cpp/Mistovstvi v C+/kap07/07.09 strgfun.cpp",
+		"/Users/peterbeno/Downloads/main-banner-subpages.png",
+		"/Users/peterbeno/Nginx/happycompany/www/assets/css/jumbotron-narrow.css",
+		"/Users/peterbeno/Nginx/happycompany/app/functions.php",
+		"/Users/peterbeno/Nginx/happycompany/app/bootstrap.php",
+		"/Users/peterbeno/Nginx/happycompany/app/Model.class.php",
+		"/Users/peterbeno/Nginx/happycompany/app/templates/survey.twig",
+		"/Users/peterbeno/Nginx/happycompany/app/controllers/survey.php",
+		"/Users/peterbeno/Nginx/happycompany/app/templates/thank-you.twig",
+		"/Users/peterbeno/Nginx/happycompany/app/templates/layout.twig",
+		"/Users/peterbeno/Nginx/happycompany/app/templates/analyze.twig",
+		"/Users/peterbeno/Nginx/happycompany/www/assets/css/main.css",
+		"/Users/peterbeno/Nginx/happycompany/app/templates/new.twig",
+		"/Users/peterbeno/Nginx/happycompany/app/controllers/analyze.php",
+		"/Users/peterbeno/Nginx/happycompany/app/Answer.class.php",
+		"/Users/peterbeno/Nginx/happycompany/app/templates/header.twig",
+		"/Users/peterbeno/Nginx/happycompany/app/controllers/postprocess.php",
+		"/Users/peterbeno/Nginx/happycompany/app/controllers/import.php",
+		"/Users/peterbeno/Nginx/happycompany/www/assets/css/analyze.css",
+		"/Users/peterbeno/Nginx/happycompany/www/thank-you.html",
+		"/Users/peterbeno/Nginx/happycompany/www/assets/js/main.js",
+		"/Users/peterbeno/Nginx/happycompany/www/assets/js/analyze.js",
+		"/Users/peterbeno/Nginx/happycompany/www/_index.php",
+		"/Users/peterbeno/Nginx/happycompany/www/results/1389114049.5643.json",
+		"/Users/peterbeno/.Trash/_index.php",
+		"/Users/peterbeno/Nginx/happycompany/www/index.html",
+		"/Users/peterbeno/Cpp/Mistovstvi v C+/kap02/02.05 ourfunc.cpp",
+		"/Users/peterbeno/Cpp/Mistovstvi v C+/kap02/02.03 getinfo.cpp",
+		"/Users/peterbeno/Cpp/Mistovstvi v C+/kap02/02.06",
+		"/Users/peterbeno/Cpp/Kurz-C-C++-III-pokrocily.txt",
+		"/Users/peterbeno/Cpp/Navrhove-vzory.txt",
+		"/Users/peterbeno/Desktop/Skolenia/Mistovstvi v C+/kap02/02.01 myfirst.cpp",
+		"/Users/peterbeno/Cpp/virtual methods/virtual-method-exercise.cpp",
+		"/Users/peterbeno/Cpp/I. Úvod do návrhových zdrojov",
+		"/Users/peterbeno/Cpp/Objekty a triedy",
+		"/Users/peterbeno/Nginx/wordpress/wp-content/themes/pzbrezina/css/main.css",
+		"/Users/peterbeno/Nginx/wordpress/wp-content/themes/pzbrezina_backup/header.php",
+		"/Users/peterbeno/Nginx/happycompany/app/views/layout.twig",
+		"/Users/peterbeno/Kinect/websocket-kinect/client-webgl/websocket-kinect.js",
+		"/Users/peterbeno/Nginx/happycompany/www/assets/bower_components/font-awesome/component.json",
+		"/Users/peterbeno/Kinect/libfreenect/wrappers/cpp/cppview.cpp",
+		"/Users/peterbeno/Kinect/pcl/CMakeLists.txt",
+		"/Users/peterbeno/Kinect/pcl/3rdparty/openni/source/Makefile",
+		"/Users/peterbeno/Nginx/happycompany/www/assets/bower_components/DataTables/media/css/jquery.dataTables.css",
+		"/Users/peterbeno/Nginx/happycompany/www/assets/bower_components/jquery/package.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"survey",
+			"bzero",
+			"PF_LOCAL",
+			"h1",
+			"prehlasenie-o-anonymite",
+			"questions",
+			"section",
+			"company-id",
+			"pohlavie",
+			"summarizeSurveyPoints",
+			"$e1",
+			"getSectionNameById",
+			"getSectionsForCompany",
+			"$results",
+			"$answers[$key]",
+			"bootstrap",
+			"main.js",
+			"/images/green",
+			"bower",
+			"bowe{{ page_url }}assets/r",
+			"bower",
+			"RP",
+			"page_url",
+			"cal",
+			"getSectionsForCompany",
+			"getSectionNameById",
+			"$ections",
+			"sections",
+			"id_section",
+			"pss",
+			"IFS",
+			"section",
+			"branch",
+			"region",
+			"@",
+			"#E2E4FF",
+			"E2E4FF",
+			"D3D6FF",
+			"odd",
+			"even",
+			"OPENNI_INCLUDE_DIR",
+			"array_push",
+			"`",
+			"drawControl",
+			"camera",
+			"lookAt",
+			"nginx.conf"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$form_data",
+			"$answer",
+			"{{ page_url }}assets/images/green",
+			"IFŠ",
+			"#ccc",
+			"ccc",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Image.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"auto_name": "package proxy;",
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ImageViewer.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ImageProxy.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								558,
+								558
+							]
+						],
+						"settings":
+						{
+							"auto_name": "package proxy;",
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "HighResolutionImage.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								389,
+								389
+							]
+						],
+						"settings":
+						{
+							"auto_name": "package proxy;",
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 268.0
+	},
+	"project": "ImageViewer.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"boot",
+				"app/bootstrap.php"
+			],
+			[
+				"thank",
+				"www/thank-you.html"
+			],
+			[
+				"lay",
+				"app/views/layout.twig"
+			],
+			[
+				"main.",
+				"www/assets/js/main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 745.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

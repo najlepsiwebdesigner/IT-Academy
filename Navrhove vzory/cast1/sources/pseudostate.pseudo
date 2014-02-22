@@ -1,0 +1,75 @@
+ class AbstractTool is
+     function moveTo(point) is
+         input:  the location point the mouse moved to
+         (this function must be implemented by subclasses)
+ 
+     function mouseDown(point) is
+         input:  the location point the mouse is at
+         (this function must be implemented by subclasses)
+ 
+     function mouseUp(point) is
+         input:  the location point the mouse is at
+         (this function must be implemented by subclasses)
+
+
+
+subclass PenTool of AbstractTool is
+     last_mouse_position := invalid
+     mouse_button := up
+ 
+     function moveTo(point) is
+         input:  the location point the mouse moved to
+         if mouse_button = down
+             (draw a line from the last_mouse_position to point)
+             last_mouse_position := point
+ 
+     function mouseDown(point) is
+         input:  the location point the mouse is at
+         mouse_button := down
+         last_mouse_position := point
+ 
+     function mouseUp(point) is
+         input:  the location point the mouse is at
+         mouse_button := up  
+
+
+
+ subclass SelectionTool of AbstractTool is
+     selection_start := invalid
+     mouse_button := up
+ 
+     function moveTo(point) is
+         input:  the location point the mouse moved to
+         if mouse_button = down
+             (select the rectangle between selection_start and point)
+ 
+     function mouseDown(point) is
+         input:  the location point the mouse is at
+         mouse_button := down
+         selection_start := point
+ 
+     function mouseUp(point) is
+         input:  the location point the mouse is at
+         mouse_button := up
+
+
+class Cursor is
+     current_tool := new PenTool
+ 
+     function moveTo(point) is
+         input:  the location point the mouse moved to
+         current_tool.moveTo(point)
+ 
+     function mouseDown(point) is
+         input:  the location point the mouse is at
+         current_tool.mouseDown(point)
+ 
+     function mouseUp(point) is
+         input:  the location point the mouse is at
+         current_tool.mouseUp(point)
+ 
+     function usePenTool() is
+         current_tool := new PenTool
+ 
+     function useSelectionTool() is
+         current_tool := new SelectionTool         
